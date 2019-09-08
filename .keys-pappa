@@ -5,5 +5,5 @@
 # reference these in your code with process.env.SECRET
 # note: .env is a shell file so there can’t be spaces around =
 
-binance_key=binanceAPIKEY
-binance_secret=binanceAPISecret
+binance_key=B5NBdyIwRlfD9OCH48p4iYF7Mr9bA6PVYnzWMwYeAZJBKO83QC4vnsNneWKebO3h
+binance_secret=U9ndxvJdmVuJdKF4HDLcQV3HXk8BuXUUiLWW5YZovkoDylBADeau9U8oYO2n1iRD
